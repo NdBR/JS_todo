@@ -1,0 +1,36 @@
+body {
+    background-color: #5F6159;
+    height: 90vh;
+    margin: 0;
+    color: #B6B196;
+}
+
+h1 {
+    margin: 0;
+    text-align: center;
+}
+
+.todoInput {
+    box-sizing: border-box;
+    input {
+        height: 20px;
+        padding: 3px;
+        width: 30%;
+        margin: 10px 0% 10px 15%;
+    }
+    button {
+        height: 30px;
+        width: 100px;
+        padding: 3px;
+    }
+}
+
+.container {
+    background-color: #272729;
+    width: 60%;
+    height: 90vh;
+    margin: 5vh 20%;
+    border-radius: 20px;
+    border: 2px solid #9A9E87;
+    padding: 5px;
+}
